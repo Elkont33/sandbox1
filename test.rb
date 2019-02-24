@@ -1,1 +1,3 @@
-print "Hello world"
+puts "  / |     /|     /|   "
+puts " /  |    / |    / |   "
+puts"/___|   /__|   /__|   "
